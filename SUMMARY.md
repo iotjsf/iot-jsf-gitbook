@@ -4,6 +4,7 @@
 * [1.ReactJS](1reactjs.md)
 * [2.AngularJS](2angularjs.md)
    * [2.1 AngularJS 2.0 part1](11_angularjs_20_-_part_1.md)
+   * 2.1 AngularJS 2.0 part2
 * [3.NodeJS](3nodejs.md)
 * [4.JS Build](4buildwebpacketc_md.md)
 * [5.Output](5output.md)
