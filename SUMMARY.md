@@ -6,6 +6,6 @@
 * [3.NodeJS](3nodejs.md)
 * [4.JS Build](4buildwebpacketc_md.md)
 * [5.Output](5output.md)
-* [00.Reference](00reference.md)
 * [6.Etc. Setting](6etc_setting.md)
+* [00.Reference](00reference.md)
 
