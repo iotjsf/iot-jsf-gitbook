@@ -8,5 +8,5 @@
 * [5.Output](5output.md)
 * [6.Etc. Setting](6etc_setting.md)
 * [00.Reference](00reference.md)
-* 7.Starter Kit
+* [7.Starter Kit](7starter_kit.md)
 
