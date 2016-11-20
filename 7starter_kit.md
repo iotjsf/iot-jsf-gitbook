@@ -25,6 +25,11 @@ https://github.com/kriasoft/react-starter-kit
 
 > 
 
+## create react app
+- React 공식 홈페이지 Blog에 포함.( https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
+- 위의 React Starter Kit처럼 실행환경을 제공하는데, 초보자들을 위해 손쉽게 셋팅을 해줌.
+- https://velopert.com/2037 에 자세한 환경 설정 방법 참고할 것.
+
 
 ------------- ( 아래 내용 추가중 ) ----------------
 
