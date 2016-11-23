@@ -10,7 +10,7 @@
 * [4.JS Build](4buildwebpacketc_md.md)
 * [5.Output](5output.md)
    * [5.1 ReactJS Output](51_reactjs_output.md)
-   * 5.2 Angular JS 2.0 Output
+   * [5.2 Angular JS 2.0 Output](52_angular_js_20_output.md)
 * [6.Etc. Setting](6etc_setting.md)
 * [7.Starter Kit](7starter_kit.md)
 * [00.Reference](00reference.md)
